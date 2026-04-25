@@ -1,11 +1,9 @@
+#include <algorithm>
+#include <cmath>
 #include <iostream>
-#include <vector>
-#include <algorithm>    
 #include <numeric>
-#include <cmath>    
+#include <vector>
 
 using namespace std;
 
-int main(){
-    cout << "Hello leborne!" << endl;
-}
+int main() { cout << "Hello leborne!" << endl; }
