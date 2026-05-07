@@ -3,3 +3,6 @@
 Makefile
 
 Lab5
+
+*.json
+output.txt
